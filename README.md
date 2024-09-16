@@ -32,7 +32,16 @@ A brief introduction into the NIST CSF tool and how to use it to interpret the n
 The Audit notes of " GoodCorp" from an interview , the audit notes have been split into the sections but we are focusing just on the asset management section part of this lab. 
 
 ![Screenshot 2024-09-12 235405](https://github.com/user-attachments/assets/888d4402-4841-4875-beb8-75c6f5fdd500)
+NIST CSF Summary showing default scores and the accompanying graph. 
 
+![Screenshot 2024-09-15 003551](https://github.com/user-attachments/assets/c6c50580-6114-4983-bc28-aec9d9d8ad0e)
+As seen here, the target score for asset management has been changed from 3.00 to 4.00 and we can see the drastic change from the green zone to the red zone and the drastich change reflected on the graph. 
+
+![Screenshot 2024-09-15 010836](https://github.com/user-attachments/assets/594fb1d0-af9c-4458-bd3f-fbac4aa54057)
+NIST CSF Core figures for Asset management reset to zero (0) . We are going to do a maturity assesment of the asset management portion of the audit notes, using the maturity levels sheet as the reference. 
+
+![Screenshot 2024-09-15 025220](https://github.com/user-attachments/assets/66bcf64b-55c8-4c52-9201-eeab83372bc4)
+The new NIST CSF Summary showing the finalized maturity assesment. we can see a final target score of 1.00 because from the notes, we deducted that there are no  policies in place to ensure security of assets, hence the lowest score is given here. 
 
 
 
