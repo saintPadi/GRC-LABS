@@ -1,4 +1,4 @@
-# Detection-Lab
+# CYBER RISK AND MATURITY ASSESMENT LAB
 
 ## Objective
 [Brief Objective - Remove this afterwards]
