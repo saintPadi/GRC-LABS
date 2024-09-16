@@ -1,27 +1,29 @@
 # CYBER RISK AND MATURITY ASSESMENT LAB
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Lab project is a part of leveleffect's compliance fundamentals course, is aimed to simulate a real-life experience of a risk and maturity assesment, by using the IT Audit notes that summarizes the maturity of a fictional company, "GoodCorp" which we are auditing. The notes were used to rate the maturity according to the NIST Cybersecurity Framework(NIST SP 800-53) using the NIST CSF tool made by John Masserini.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+- Advanced understanding of CyberSecurity Risk and compliance concepts.
+- Proficiency in rating policy maturity and practice maturity.
+- Ability to create policies with reference to cybersecurty Standards.
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+- NIST CSF TOOL
+- MICROSOFT EXCEL
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+  ### STANDARDS USED
+  - NIST CSF (SP 800-53)
+  - ISO 27001
+  - COBIT 5
+  - CIS CS C1-14
+
+  
 
 ## Steps
+![Screenshot 2024-09-12 235105](https://github.com/user-attachments/assets/2e3b0ade-b6e5-434a-a6b8-f62c06db72e0)
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
